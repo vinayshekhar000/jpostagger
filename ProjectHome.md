@@ -1,0 +1,1 @@
+jPOSTagger is a Java implementation of Eric Brill's Transformation-Based Error-Driven Part-of-Speech tagger. Users will be able to submit a string or a file to be processed, and the output will be text along with its part-of-speech tags.
